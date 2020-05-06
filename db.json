@@ -1,0 +1,30 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "cwid": 123456,
+            "name": "Jonathan",
+            "title": "Big Boss",
+            "employeeID": 9999,
+            "campus": "North Vegas",
+            "department": "IT",
+            "serialNumber": "C90838389J",
+            "imei": 398087574,
+            "assetTag": "M008764"
+        },
+        {
+            "id": 2,
+            "cwid": 654321,
+            "name": "Ayden",
+            "title": "John's Assistant'",
+            "employeeID": 6666,
+            "campus": "Warehouse",
+            "department": "Production",
+            "serialNumber": "F67484ZS2",
+            "imei": 67488846,
+            "assetTag": "M003892"
+        }
+        
+    ]
+}
+
